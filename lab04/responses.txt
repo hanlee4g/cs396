@@ -1,0 +1,11 @@
+Question #1: 
+SQLAlchemy allows for communication between python code and databases such as PostgreSQL
+The main use case is as an ORM tool where python classes are translated into tables and
+for converting Python functions to SQL statements
+
+Question #2:
+A model is a way of reading from and writing to a databases
+
+Question #3:
+A postgres view is a virtual table in Postgres. It represents the results of a query
+to one or more underlying tables.
